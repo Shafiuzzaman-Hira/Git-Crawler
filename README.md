@@ -1,0 +1,2 @@
+# Git-Crawler
+Git Crawler is a fast and usable source code search and cross reference engine. It helps you search, cross-reference and navigate your source tree. It can understand various program file formats and version control histories of Git. For now it can only clone projects of github and BitBucket. It provides Full text search and commits search facility to the developers. It also provides facility to see the source for every search results. It will show the line number and path for every found match. It also gives a user friendly and interactive interface.
